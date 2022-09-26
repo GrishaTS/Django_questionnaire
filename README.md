@@ -7,10 +7,13 @@
 git clone https://github.com/GrishaTS/Django_questionnaire.git
 ```
 ```commandline
-pip install -r requirements.txt
+cd Django_questionnaire
 ```
 ```commandline
 cd mysite
+```
+```commandline
+pip install -r requirements.txt
 ```
 ```commandline
 python manage.py runserver
