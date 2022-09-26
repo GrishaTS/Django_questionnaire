@@ -5,7 +5,13 @@
 ### Для запуска сайта:
 ```commandline
 git clone https://github.com/GrishaTS/Django_questionnaire.git
+```
+```commandline
 pip install -r requirements.txt
+```
+```commandline
 cd mysite
+```
+```commandline
 python manage.py runserver
 ```
